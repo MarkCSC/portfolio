@@ -29,7 +29,7 @@ Lifelong learning!
 - **Technologies used:** Data Pipelining, MongoDB, Python, OpenCV, Documentation.
 - **[View Repository](https://github.com/MarkCSC/et-data-handling)**
 
-#### Horce Racing Prediction
+#### Horse Racing Prediction
 - **Description:** An project investigating different deep learning and machine learning methods on predicting the finishing time of horses by scraping data on HKJC.
 - **Technologies used:** Deep Learning, Machine learning, Matplotlib, Web Scraping, Data Cleansing, Report Writing.
 - **[View Repository](https://github.com/MarkCSC/horse-race-prediction-with-deep-learning)**
